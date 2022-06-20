@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T06:21:47.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.72 Safari/537.36" version="18.1.3" etag="1aNY338JRO52qld0YRUj" type="github"><diagram id="ljj0AchqpCnvnZ34BrjS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-20T06:22:27.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.72 Safari/537.36" etag="8n6q4n8Tlwm1EtL5_pOC" version="18.1.3" type="github">
+  <diagram id="ljj0AchqpCnvnZ34BrjS" name="Page-1">
+    <mxGraphModel dx="551" dy="1567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ioU2X1zFh1fgKFbQDa9l-1" value="UI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioU2X1zFh1fgKFbQDa9l-2" value="DOMAIN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ioU2X1zFh1fgKFbQDa9l-3" value="DATA ACCESS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
