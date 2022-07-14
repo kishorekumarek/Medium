@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T13:41:37.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36" etag="6ndqgZztUExCXQ6A7RMH" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T13:45:53.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.136 Safari/537.36" etag="ho_Hy4hz5qIlv9YQ6vfr" version="20.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1391" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
           <mxGeometry y="137" width="140" height="25" as="geometry" />
         </mxCell>
         <mxCell id="m8fTO_VlsW8navEo-4aL-15" value="ChallengeChore" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="660" width="140" height="112" as="geometry" />
+          <mxGeometry x="630" y="440" width="140" height="112" as="geometry" />
         </mxCell>
         <mxCell id="m8fTO_VlsW8navEo-4aL-17" value="isDone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m8fTO_VlsW8navEo-4aL-15" vertex="1">
           <mxGeometry y="29" width="140" height="25" as="geometry" />
